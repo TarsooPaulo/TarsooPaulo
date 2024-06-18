@@ -57,7 +57,7 @@
 </a>
 
 <h2 align="center"> 
-  🇬🇧 My Social Media: - 🇧🇷 Minhas Redes Sociais:
+  🇬🇧 Contact Networks: - 🇧🇷 Redes de Contato:
 </h2> 
 
 <a href="https://www.linkedin.com/in/tarsoo-paulo/" target="blank"> 
