@@ -69,8 +69,13 @@
 </a>
 
 <a href="https://x.com/Tarsoo_Paulo">
-  
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
+
+<a href="mailto:paulodetarse333@gmail.com?subject=Interesse em seu perfil&body=Olá Paulo vi seu perfil, e gostaria de conversar mais é sobre uma {Oferta de emprego ou Solicitação de serviços}">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 <!--
 **TarsooPaulo/TarsooPaulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
