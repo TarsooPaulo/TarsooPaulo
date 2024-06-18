@@ -60,11 +60,11 @@
   🇬🇧 My Social Media: - 🇧🇷 Minhas Redes Sociais:
 </h2> 
 
-<a href="https://www.linkedin.com/in/tarsoo-paulo/" target="_blank"> 
+<a href="https://www.linkedin.com/in/tarsoo-paulo/" target="blank"> 
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://www.instagram.com/tarsoo_paulo/" target="_blank">
+<a href="https://www.instagram.com/tarsoo_paulo/" target="blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
@@ -72,9 +72,14 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
 
-<a href="mailto:paulodetarse333@gmail.com?subject=Interesse em seu perfil&body=Olá Paulo vi seu perfil, e gostaria de conversar mais é sobre uma {Oferta de emprego ou Solicitação de serviços}">
+<a href="mailto:paulodetarse333@gmail.com?subject=Interesse em seu perfil&body=Após revisar o seu perfil, gostaria de expressar meu interesse em estabelecer uma conversa. Seria possível entrarmos em contato no momento que lhe for mais conveniente?">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
+<a href="https://wa.me/5511975371147/?text=Vi seu perfil e me interessei. Gostaria de conversar. Por favor, entre em contato quando possível.">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+
 
 <!--
 **TarsooPaulo/TarsooPaulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
