@@ -38,17 +38,23 @@
   🇬🇧 Operational Systems: - 🇧🇷 Sistemas Operacionais:
 </h4>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,debian,redhat,windows&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,debian,redhat&theme=dark)](https://skillicons.dev)
 
 <h4> 
   🇬🇧 Versioning Tools: - 🇧🇷 Ferramentas de Versionamento:
 </h4>
 
 [![My Skills](https://skillicons.dev/icons?i=git,github&theme=dark)](https://skillicons.dev)
-          
-          
 
+          
+<h2 align="center"> 
+  🇬🇧 My Code Status: - 🇧🇷 Status dos meus Códigos:
+</h2>          
 
+<a href="https://beacons.ai/Tarsoo_Paulo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TarsooPaulo&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarsoopaulo&show_icons=true&locale=en&layout=compact" alt="tarsoopaulo" />
+</a>
 
 
 <!--
@@ -65,8 +71,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 --> 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarsoopaulo&show_icons=true&locale=en&layout=compact" alt="tarsoopaulo" /></p>
 
-<a href="https://beacons.ai/Tarsoo_Paulo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TarsooPaulo&show_icons=true&theme=highcontrast" />
-</a> </div>
