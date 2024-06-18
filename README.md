@@ -76,10 +76,6 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://wa.me/5511975371147/?text=Vi seu perfil e me interessei. Gostaria de conversar. Por favor, entre em contato quando possível.">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
-
 
 <!--
 **TarsooPaulo/TarsooPaulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
