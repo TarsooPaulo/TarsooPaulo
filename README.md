@@ -10,9 +10,45 @@
 
 <h2 align="center">🇬🇧 My Stacks: - 🇧🇷 Minhas Tecnologias:</h2>
 
-<p>
+<h4>
   🇬🇧 Programming Languages: - 🇧🇷 Linguagens de Programação:
-</p>
+</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,java,bash&theme=dark)](https://skillicons.dev)
+
+<h4> 
+  🇬🇧 Front-end Techs: - 🇧🇷 Tecnonogias Front-end:
+</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,next,django,babel,webpack&theme=dark)](https://skillicons.dev)
+
+<h4> 
+  🇬🇧 Back-end Techs: - 🇧🇷 Tecnonogias Back-end:
+</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express&theme=dark)](https://skillicons.dev)
+
+<h4> 
+  🇬🇧 Databases: - 🇧🇷 Banco de dados:
+</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=sqlite,mongodb,postgres&theme=dark)](https://skillicons.dev)
+
+<h4> 
+  🇬🇧 Operational Systems: - 🇧🇷 Sistemas Operacionais:
+</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=linux,debian,redhat,windows&theme=dark)](https://skillicons.dev)
+
+<h4> 
+  🇬🇧 Versioning Tools: - 🇧🇷 Ferramentas de Versionamento:
+</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=git,github&theme=dark)](https://skillicons.dev)
+          
+          
+
+
 
 
 <!--
@@ -29,6 +65,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 --> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarsoopaulo&show_icons=true&locale=en&layout=compact" alt="tarsoopaulo" /></p>
+
 <a href="https://beacons.ai/Tarsoo_Paulo">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TarsooPaulo&show_icons=true&theme=highcontrast" />
-</a>
+</a> </div>
