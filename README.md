@@ -48,15 +48,29 @@
 
           
 <h2 align="center"> 
-  🇬🇧 My Code Status: - 🇧🇷 Status dos meus Códigos:
+  🇬🇧 My Code Infos: - 🇧🇷 informações dos meus Códigos:
 </h2>          
 
-<a href="https://beacons.ai/Tarsoo_Paulo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TarsooPaulo&show_icons=true&theme=dark" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarsoopaulo&show_icons=true&locale=en&layout=compact" alt="tarsoopaulo" />
+<a href="https://beacons.ai/Tarsoo_Paulo" target="_blank">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TarsooPaulo&show_icons=true&theme=blue-green" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarsoopaulo&show_icons=true&locale=en&layout=compact" alt="tarsoopaulo&theme=blue-green" />
 </a>
 
+<h2 align="center"> 
+  🇬🇧 My Social Media: - 🇧🇷 Minhas Redes Sociais:
+</h2> 
 
+<a href="https://www.linkedin.com/in/tarsoo-paulo/" target="_blank"> 
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/tarsoo_paulo/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://x.com/Tarsoo_Paulo">
+  
+</a>
 <!--
 **TarsooPaulo/TarsooPaulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
