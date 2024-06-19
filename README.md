@@ -59,7 +59,7 @@
 
 <a href="https://beacons.ai/Tarsoo_Paulo" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TarsooPaulo&show_icons=true&theme=blue-green" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarsoopaulo&show_icons=true&locale=en&layout=compact" alt="tarsoopaulo&" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarsooPaulo&layout=compact" />
 </a>
 
 <h2 align="center"> 
