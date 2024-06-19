@@ -26,7 +26,7 @@
   🇬🇧 Back-end Techs: - 🇧🇷 Tecnonogias Back-end:
 </h4>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,sequelize&theme=dark)](https://skillicons.dev)
 
 <h4> 
   🇬🇧 Databases: - 🇧🇷 Banco de dados:
@@ -39,6 +39,12 @@
 </h4>
 
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,debian,redhat&theme=dark)](https://skillicons.dev)
+
+<h4> 
+  🇬🇧 Testing Tools: - 🇧🇷 Ferramentas de Testes:
+</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=jest&theme=dark)](https://skillicons.dev)
 
 <h4> 
   🇬🇧 Versioning Tools: - 🇧🇷 Ferramentas de Versionamento:
