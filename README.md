@@ -82,7 +82,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-![snake gif](https://github.com/TarsooPaulo/TarsooPaulo/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/TarsooPaulo/TarsooPaulo/blob/main/github-contribution-grid-snake.svg)
 
 
 <!--
