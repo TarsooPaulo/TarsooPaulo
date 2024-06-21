@@ -82,6 +82,25 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
+<h2 align="center"> 
+  🇬🇧 Check back often! - 🇧🇷 Volte Sempre!
+</h2> 
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/TarsooPaulo/TarsooPaulo/blob/output/dist/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/TarsooPaulo/TarsooPaulo/blob/output/dist/github-contribution-grid-snake.gif"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://github.com/TarsooPaulo/TarsooPaulo/blob/output/dist/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 
 <!--
 **TarsooPaulo/TarsooPaulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
