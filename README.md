@@ -20,7 +20,7 @@
   🇬🇧 Front-end Techs: - 🇧🇷 Tecnonogias Front-end:
 </h4>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,next,django,babel,webpack&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,styledcomponents,next,django,babel,webpack&theme=dark)](https://skillicons.dev)
 
 <h4> 
   🇬🇧 Back-end Techs: - 🇧🇷 Tecnonogias Back-end:
