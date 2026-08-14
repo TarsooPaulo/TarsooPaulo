@@ -53,14 +53,7 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github&theme=dark)](https://skillicons.dev)
 
           
-<h2 align="center"> 
-  🇬🇧 My Code Infos: - 🇧🇷 informações dos meus Códigos:
-</h2>          
-
-<a href="https://beacons.ai/Tarsoo_Paulo" target="_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TarsooPaulo&show_icons=true&theme=blue-green" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarsooPaulo&layout=compact&theme=dark" />
-</a>
+[![Visitor Count](https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&color=blue&style=flat-square)](https://github.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB)
 
 <h2 align="center"> 
   🇬🇧 Contact Networks: - 🇧🇷 Redes de Contato:
