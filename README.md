@@ -53,7 +53,7 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github&theme=dark)](https://skillicons.dev)
 
           
-[![Visitor Count](https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&color=blue&style=flat-square)](https://github.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB)
+[![Visitor Count](https://komarev.com/ghpvc/?username=TarsooPaulo&color=blue&style=flat-square)](https://github.com/TarsooPaulo/TarsooPaulo)
 
 <h2 align="center"> 
   🇬🇧 Contact Networks: - 🇧🇷 Redes de Contato:
